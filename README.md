@@ -13,7 +13,7 @@ Many of your favorite social media applications follow similar patterns. Over th
 
 For now, focus on just the posting feature. For example, if you're building Instagram, don't worry about image uploading, just store a link as part of the Photo model. With Snapchat, don't worry about making the Snaps expire or sending to other users yet, just make it function more similarly to Instagram. 
 
-## Today's Goal
+### Today's Goal
 
 By the end of today's class, your goal is to:
 
@@ -24,6 +24,6 @@ By the end of today's class, your goal is to:
 5. Add a form for people to add new content. 
 6. Setup your controller with the necessary routes. 
 
-## Bonus Features
+## Bonus Challenges
 
-+ Start stying your app so it looks great
++ Start stying your app so it looks great.

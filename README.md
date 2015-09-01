@@ -21,3 +21,7 @@ By the end of today's class, your goal is to:
 4. Create an `index.erb` page to display all of the created content. 
 5. Add a form for people to add new content. 
 6. Setup your controller with the necessary routes. 
+
+## Bonus Features
+
++ Start stying your app so it looks great

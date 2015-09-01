@@ -1,6 +1,6 @@
-## Building A Social Media Clone
+## Recreating A Social Media App
 
-Many of your favorite social media applications follow similar patterns. Over the next several classes, you'll be working in groups to build your own social media clone using Fwitter as a guide. Choose an app that allows users to post content. Some examples:
+Many of your favorite social media applications follow similar patterns. Over the next several classes, you'll be working in groups to recreate a social media app of your choosing using Fwitter as a guide. Choose an app that allows users to post content. Some examples:
 
 + Instagram
 + Snapchat

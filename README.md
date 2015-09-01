@@ -1,6 +1,6 @@
 ## Recreating A Social Media App
 
-![social media recreation])https://smiaware.com/wp-content/uploads/2015/07/dealership-social-media.png
+![social media recreation](https://smiaware.com/wp-content/uploads/2015/07/dealership-social-media.png)
 Many of your favorite social media applications follow similar patterns. Over the next several classes, you'll be working in groups to recreate a social media app of your choosing using Fwitter as a guide. Choose an app that allows users to post content. Some examples:
 
 + Instagram

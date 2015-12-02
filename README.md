@@ -27,3 +27,4 @@ By the end of today's class, your goal is to:
 ## Bonus Challenges
 
 + Start stying your app so it looks great.
+<a href='https://learn.co/lessons/hs-social-media-recreation' data-visibility='hidden'>View this lesson on Learn.co</a>

@@ -27,4 +27,4 @@ By the end of today's class, your goal is to:
 ## Bonus Challenges
 
 + Start stying your app so it looks great.
-<a href='https://learn.co/lessons/hs-social-media-recreation' data-visibility='hidden'>View this lesson on Learn.co</a>
+<p data-visibility='hidden'>View <a href='https://learn.co/lessons/hs-social-media-recreation' title='Recreating A Social Media App'>Recreating A Social Media App</a> on Learn.co and start learning to code for free.</p>
